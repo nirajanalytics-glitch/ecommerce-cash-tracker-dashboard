@@ -24,6 +24,7 @@ This dashboard helps answer key cash management questions:
 |---|---|
 | `cash_tracker.pbix` | Main Power BI dashboard file (data model, DAX measures, and visuals) |
 | `daily_cash_flow_maintenance.xlsx` | Documentation of all DAX measures used, with explanations and usage notes |
+| `ecommerce-cash-tracker-dashboard.pdf` | Static PDF export of the full dashboard report |
 
 ## 🔑 Key DAX Measures
 
@@ -39,10 +40,11 @@ This dashboard helps answer key cash management questions:
 ## 📈 Dashboard Features
 
 - **KPI Cards** – Opening Balance, Closing Balance, Total Income, Total Expense
-- **Trend Chart** – Cumulative expense over time
-- **Category Breakdown** – Expense distribution by head/category with consistent color coding
-- **Location-wise Analysis** – Spend breakdown across districts
+- **Geo Map** – Location-wise cash distribution across districts
+- **Trend Charts** – Monthly cumulative income & expense trends
+- **Category Breakdown** – Expense distribution by head/category with consistent color coding (pie & funnel charts)
 - **Gauge Chart** – Actual vs. target spend, with dynamic titles based on selection
+- **Ledger Tables** – Detailed income and expense ledgers by head and particular
 
 ## 🚀 How to Use
 
@@ -50,6 +52,7 @@ This dashboard helps answer key cash management questions:
 2. Open in Power BI Desktop
 3. Explore the report pages and interact with slicers/filters
 4. Refer to `daily_cash_flow_maintenance.xlsx` for a breakdown of how each measure works
+5. Or simply view `ecommerce-cash-tracker-dashboard.pdf` for a quick static preview
 
 ## 📌 About This Project
 
@@ -60,11 +63,11 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/niraj-analytics) for m
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="screenshots/dashboard-overview.PNG" alt="Dashboard Overview" width="800"/>
+  <img src="screenshots/dashboard-overview_png.PNG" alt="Dashboard Overview" width="800"/>
 </p>
 
 <p align="center">
   <img src="screenshots/dashboard-details.png" alt="Dashboard Details" width="800"/>
 </p>
 
-> 📄 Full report also available as PDF: ecommerce-cash-tracker-dashboard.pdf
+> 📄 Full report also available as PDF: [ecommerce-cash-tracker-dashboard.pdf](ecommerce-cash-tracker-dashboard.pdf)
