@@ -67,4 +67,4 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/niraj-analytics) for m
   <img src="screenshots/dashboard-details.png" alt="Dashboard Details" width="800"/>
 </p>
 
-> 📄 Full report also available as PDF: [cash_tracker_dashboard.pdf](cash_tracker_dashboard.pdf)
+> 📄 Full report also available as PDF: [ecommerce-cash-tracker-dashboard.pdf](ecommerce-cash-tracker-dashboard)
