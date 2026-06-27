@@ -55,4 +55,4 @@ This dashboard helps answer key cash management questions:
 
 This is part of my ongoing Data Analytics portfolio, where I'm building hands-on Power BI projects to strengthen my DAX, data modeling, and dashboard design skills.
 
-Connect with me on [LinkedIn](#) for more projects and analytics content.
+Connect with me on [LinkedIn] (www.linkedin.com/in/niraj-analytics) for more projects and analytics content.
