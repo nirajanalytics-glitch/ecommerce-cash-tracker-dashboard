@@ -63,7 +63,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/niraj-analytics) for m
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="screenshots/dashboard-overview_png.PNG" alt="Dashboard Overview" width="800"/>
+  <img src="screenshots/dashboard-overview.png.PNG" alt="Dashboard Overview" width="800"/>
 </p>
 
 <p align="center">
