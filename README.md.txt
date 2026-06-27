@@ -56,3 +56,15 @@ This dashboard helps answer key cash management questions:
 This is part of my ongoing Data Analytics portfolio, where I'm building hands-on Power BI projects to strengthen my DAX, data modeling, and dashboard design skills.
 
 Connect with me on [LinkedIn] (www.linkedin.com/in/niraj-analytics) for more projects and analytics content.
+
+## 📷 Dashboard Preview
+
+<p align="center">
+  <img src="screenshots/dashboard-overview.png" alt="Dashboard Overview" width="800"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/dashboard-details.png" alt="Dashboard Details" width="800"/>
+</p>
+
+> 📄 Full report also available as PDF: [cash_tracker_dashboard.pdf](cash_tracker_dashboard.pdf)
